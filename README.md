@@ -8,11 +8,6 @@
   
 
 </h1>
-
-FullStack + 7
-<br />
-BlockChain + 5
-
 Hello, Nice to meet you.
 
 A senior full-stack and blockchain developer who has worked in several blockchain startup companies for over 7 years.
