@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+SoftWare+Engineer...;)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+professional+web+developer;I+am+SoftWare+Engineer...;)]()
   
 
 </h1>
